@@ -1,0 +1,17 @@
+c:\users\xiorax\documents\visual studio 2013\Projects\TreasureHunt\TreasureHunt\bin\Debug\TreasureHunt.exe.config
+c:\users\xiorax\documents\visual studio 2013\Projects\TreasureHunt\TreasureHunt\obj\Debug\TreasureHunt.MainWindow.resources
+c:\users\xiorax\documents\visual studio 2013\Projects\TreasureHunt\TreasureHunt\obj\Debug\TreasureHunt.Properties.Resources.resources
+c:\users\xiorax\documents\visual studio 2013\Projects\TreasureHunt\TreasureHunt\obj\Debug\TreasureHunt.csproj.GenerateResource.Cache
+c:\users\xiorax\documents\visual studio 2013\Projects\TreasureHunt\TreasureHunt\bin\Debug\TreasureHunt.exe
+c:\users\xiorax\documents\visual studio 2013\Projects\TreasureHunt\TreasureHunt\bin\Debug\TreasureHunt.pdb
+c:\users\xiorax\documents\visual studio 2013\Projects\TreasureHunt\TreasureHunt\obj\Debug\TreasureHunt.exe
+c:\users\xiorax\documents\visual studio 2013\Projects\TreasureHunt\TreasureHunt\obj\Debug\TreasureHunt.pdb
+C:\Users\Xiorax\documents\visual studio 2013\Projects\TreasureHunt\TreasureHunt\obj\Debug\TreasureHunt.csprojResolveAssemblyReference.cache
+C:\Users\Xiorax\documents\visual studio 2013\Projects\TreasureHunt\TreasureHunt\obj\Debug\TreasureHunt.Settings.resources
+C:\Users\Xiorax\documents\visual studio 2013\Projects\TreasureHunt\TreasureHunt\obj\Debug\TreasureHunt.GameReport.resources
+C:\Users\Xiorax\documents\visual studio 2013\Projects\TreasureHunt\TreasureHunt\obj\Debug\TreasureHunt.Confirmation.resources
+C:\Users\Xiorax\documents\visual studio 2013\Projects\TreasureHunt\TreasureHunt\obj\Debug\TreasureHunt.About.resources
+C:\Users\Xiorax\documents\visual studio 2013\Projects\TreasureHunt\TreasureHunt\obj\Debug\TreasureHunt.NewRecord.resources
+C:\Users\Xiorax\documents\visual studio 2013\Projects\TreasureHunt\TreasureHunt\obj\Debug\TreasureHunt.Rules.resources
+C:\Users\Xiorax\documents\visual studio 2013\Projects\TreasureHunt\TreasureHunt\obj\Debug\TreasureHunt.Record.resources
+C:\Users\Xiorax\documents\visual studio 2013\Projects\TreasureHunt\TreasureHunt\obj\Debug\TreasureHunt.Data.resources
